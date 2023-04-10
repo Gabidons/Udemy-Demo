@@ -1,0 +1,566 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+/* .Beginning of .first-container */
+
+.first-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#menu-bar{
+    display: block;
+}
+
+input{
+    width: 35rem;
+    height: 3rem;
+    border-radius: 10rem;
+    background-color: #F7F9FA;
+}
+
+
+/* second container starts here */
+.second-container{
+    background-image: url(image.jpg.jpg);
+    padding: 4rem 0 10rem 5rem;
+    height: 12rem;
+}
+.second-container button{
+    width: 9rem;
+    height: 3rem;
+    margin-top: 3rem;
+    background-color: rgb(164,54,241);
+    color: white;
+    border: none;
+    font-size: 14px;
+    font-weight: bolder;
+}
+
+
+.able{
+    background-color: #FFFFFF;
+    width: 25rem;
+    height: 12rem;
+    justify-content: center;
+    padding: 1rem 1rem 0 2rem;
+}
+
+.able h2{
+    font-size: 2rem; 
+}
+
+.aa0 button{
+    width: 5rem;
+    height: 2.5rem;
+    background-color: #FFFFFF;
+}
+.aaa0 button{
+    width: 5rem;
+    height: 2.5rem;
+    background-color: black;
+    color: white;
+}
+
+/* second container ends here */
+/* third container started here */
+.third-container{
+    padding: 0 0 0 2rem;
+}
+
+.third-container h2{
+    font-size: 35px;
+    margin-bottom: -10px;
+}
+.third-container p{
+    font-size: 20px;
+    margin-bottom: -5px;
+}
+.thirdinner-container {
+    display: flex;
+}
+.thirdinner-container h3{
+    margin-right: 1rem;
+    font-size: 15px;
+    color: rgb(106,111,115);
+}
+
+.thirdinner-container span{
+    color: black;
+}
+/* and ends here */
+/* fourth  container starts here */
+.fourth-container{
+    padding:0 2rem 0 2rem;
+    border: 1px solid rgb(209,215,220);
+    margin: 0 2rem 0 2rem;
+
+}
+.fourth-container p{
+    width: 50rem;
+}
+.fourth-container button{
+    width: 8rem;
+    height: 2.5rem;
+    margin-bottom: 2rem;
+    background-color: #FFFFFF;
+
+}
+
+.fourth-container .aa{
+    padding-right:0.5rem ;
+}
+
+/* and ends here */
+/* fifth container starts here */
+.fifth-container{
+    display: flex;
+}
+
+.fifth-container  .ivy{
+    color: rgb(229,152,25);
+    font-size: 13px;
+    
+}
+
+.fifth-container .glo{
+    border: 1px solid rgb(209,215,220);
+    padding-bottom: 2px;
+}
+.ivy{
+    display: flex;
+    align-items: center;
+}
+.ivy1{
+    color: rgb(180,105,14);
+    margin-right: 10px;
+}
+.ivy small{
+    color: rgb(106,159,210);
+    margin-left: 10px;
+}
+.ivy0 button{
+    background-color: rgb(236,235,152);
+    border: none;
+    height: 1.5rem;
+    font-size: 12px;
+    margin-top: 10px;
+}
+
+/* and ends here */
+/* sixth-container starts here */
+.sixth-container{
+    background-color: rgb(247,249,250);
+    margin-top: 70px;
+}
+.innersixth-container{
+    padding: 0 1rem 4rem 1rem;
+    display: flex;
+}
+
+.innersixth-container .fresh{
+    background-color: white;
+    padding: 0 3rem 0.5rem 2rem;
+    margin: 0.5rem;
+    width: 40rem;
+}
+.sixth-container h2{
+    padding: 4rem 0 0 2rem;
+
+}.ab1{
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+.cool{
+display: flex;
+align-items: center;
+}
+
+.cool1 p{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-right: 10px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.fresh{
+    border: 1px solid rgb(209,215,220);
+}
+
+ hr{
+    color: rgb(209,215,220);
+}
+
+.abc{
+    font-size: 1.8rem;
+    margin-right: 10px;
+}
+.abb{
+    display: flex;
+    align-items: center;
+    color:rgb(86,36,208) ;
+}
+
+.abc {
+    color: rgb(86,36,208);
+}
+
+/* sixth container ends here */
+/* and seventh container beggings */
+.seventh-container{
+    background-color: #FFFFFF;
+    padding-top: 2rem;
+}
+
+.innerseventh-container{
+    display: flex;
+    padding: 0 0 2rem 2rem;
+}
+.f{
+    padding: 0.5rem;
+}
+
+.f1{
+    color: rgb(180,105,14);
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    margin-top: -10px;
+}
+
+.f1 p{
+    margin-right: 10px;
+    color: rgb(180,105,92);
+   
+}
+
+.f1 small{
+    color: rgb(130,127,178);
+    margin-left: 10px;
+    
+}
+.f1{
+    padding: 1rem 1rem 1rem 0;
+}
+.f2{
+    display: flex;
+    align-items: center;
+    margin-top: -20px;
+}
+
+.f2 span{
+    font-size: 13px;
+    margin-left: 10px;
+    text-decoration: line-through;
+}
+.seventh-container button{
+    background-color: rgb(236,235,152);
+    border:none ;
+    font-size: 12px;
+    font-weight: bold;
+    height: 1.5rem;
+    margin-top: 5px;
+}
+.seventh-container h2{
+    padding: 0 0 0 2.5rem;
+}
+
+/* and ends here */
+ /* eigth container begings */
+.eight-container, .heading{
+font-size: 20px;
+padding-left: 2rem;
+}
+
+.innereight-container{
+    display: flex;
+    padding-left: 2rem;
+}
+
+.innereight-container .b1, .b2 ,.b3{
+    margin-right: 1.5rem;
+}
+.innereight-container p{
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+   
+}
+
+/* and ends here */
+/* so begings nineth container */
+.innernineth-container{
+    display: flex;
+    padding-left: 2rem;
+
+}
+
+.innernineth-container .b5, .b6 ,.b7{
+    margin-right: 1.5rem;
+}
+.innernineth-container p{
+    font-size: 15px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+/* nineth cotainer ends here */
+/* so tenth container begings */
+.tenth-container{
+    background-color: rgb(247,249,250);
+    height: 25rem;
+    padding-top: 2rem;
+}
+
+.tenth-container h2{
+    padding-left: 2rem;
+    font-size: 1.7rem;
+    margin-bottom: 2.5rem;
+}
+
+
+.classic{
+    display: flex;
+    padding: 0 2rem 0 2rem;
+}
+.classic h3{
+    font-size: 1.2rem;
+    margin-top: -1rem;
+}
+.classic .classic1, .classic2, .classic3, .classic4 {
+    width: 20rem;
+}
+
+.classic .classic1, .classic2, .classic3 {
+    margin-right: 1rem;
+}
+
+.classical .aa{
+    color: rgb(86,36,208);
+    margin: 1rem 0 1rem 0;
+    font-size: 16px;
+
+}
+
+.classical span{
+    color: rgb(106,122,167);
+}
+
+.tenth-container button{
+    margin: 2rem;
+    height: 2.5rem;
+    width: 10rem;
+}
+/* tenth container ends here */
+/* eleventh container begings here */
+.eleventh-container{
+    background-color: rgb(255,255,255);
+    height: 15rem;
+}
+
+.eleventh-container .inside-container h2{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.eleventh-container .inside-container p{
+    text-align: center;
+    margin-top: -0.5rem;
+
+}
+
+.eleventh-container .inside-container .abj{
+    margin-right: 8rem;
+}
+
+/* here ends eleventh eleventh-container */
+/* twelveth conatainer begings */
+.twelveth-container{
+    background-color: rgb(247,249,250);
+    height: 28rem;
+    padding-top: 3rem;
+}
+.box{
+    display: flex;
+    width: 55rem;
+    background-color: #FFFFFF;
+    height: 20rem;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid #D1D7DC;
+}
+
+.box2{
+    padding-left: 2rem;
+    font-size: 15px;
+    margin-top: 5.5rem;
+    color: rgb(164,53,240);
+}
+
+.second-innerbox img{
+    width: 8.125rem;
+    height: 8.125rem;
+    border-radius: 50%;
+    margin-top: 2.5rem;
+}
+
+.innerbox1{
+    font-size: 1.5rem;
+    padding: 1rem 0 0 2rem;
+
+}
+.innerbox2 p{
+    width: 24.5rem;
+    padding-left: 2rem ;
+    font-size: 16px;
+    margin-right: 11rem;
+}
+
+.innerbox22{
+    font-size: 1rem;
+    margin-top: 1rem;
+    padding-left: 0.5rem;
+}
+
+.innerbox33{
+    font-size: 17px;
+    margin: -1rem 0 0 2rem;
+}
+.innerbox44{
+    font-size: 16px;
+}
+.anchor{
+    color: rgb(164,53,240);
+    margin-left: 36rem;
+    margin-top: 3rem;
+    font-size: 15px;
+}
+/* end of twelveth container */
+/* thirteenth container begings */
+.thirthenth-container{
+    display: flex;
+    background-color: #FFFFFF;
+}
+
+.thirthenth-container .dd1{
+    width: 12rem;
+    padding-left: 1rem;
+    
+}
+.dd2 h3{
+    font-size: 2rem;
+    margin-top: 1rem;
+    padding-left: 1rem;
+}
+
+.d1{
+    width: 28rem;
+    padding-top: 5rem;
+    padding-left: 13rem;
+}
+.d12 .d13{
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+   
+}
+
+.d11 img{
+    width: 25rem;
+    padding-top: 6rem;
+    margin-left: 7rem;
+    
+}
+
+.dd2 button{
+    width: 7rem;
+    height: 3rem;
+    background-color: #FFFFFF;
+    font-weight: bolder;
+    font-size: 0.9rem;
+    border: 1px solid black;
+    margin-top: 1rem;
+    
+}
+
+.dd2 .dd3{
+    background-color: black;
+    color: #FFFFFF;
+    width: 11rem;
+    margin-right: 0.3rem;
+    padding-left: 1rem;
+}
+
+/* here ends thirthenth-container */
+/* fourtheenth container begings */
+.fourtheenth-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 7rem;
+}
+.e1 img{
+    padding-left: 5rem;
+    padding-top: 5rem;
+}
+
+.e2{
+    padding-left: 7rem;
+    width: 25rem;
+}
+.e2 h3{
+    font-size: 2.2rem;
+}
+.e2 p{
+    font-size: 1.3rem;
+}
+.e2 button{
+    width: 11rem;
+    height: 3rem;
+    background-color: black;
+    color: #FFFFFF;
+    font-size: 1rem;
+    font-weight: bolder;
+
+}
+/* fourtheenth-container ends here */
+/* fiftheenth container begings */
+.fiftheenth-container{
+    background-color: black;
+    height: 20rem;
+    padding: 2rem 0 0 3rem;
+    
+    
+}.ff1 .ff2 .ff3, a{
+    color: #FFFFFF;
+    display: flex;
+    margin-right: 10rem;
+    margin-bottom: 0.7rem;
+}
+.fiftheenth-container  .f1 button{
+    width: 9.5rem;
+    height: 2.8rem;
+    background-color: black;
+    color: #FFFFFF;
+    font-size: 1rem;
+    border: 1px solid white;
+    margin-left: 18rem;
+    padding-top: -20rem;
+}
+
+
+
+
+
+
